@@ -1,0 +1,21 @@
+{
+  "name": "aw2-actividades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/federicotissera/AW2-Actividades.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/federicotissera/AW2-Actividades/issues"
+  },
+  "homepage": "https://github.com/federicotissera/AW2-Actividades#readme"
+}
